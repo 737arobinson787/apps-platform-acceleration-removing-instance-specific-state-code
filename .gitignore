@@ -1,3 +1,11 @@
+.gradle
+build
 .idea
 *.iml
-target
+*.ipr
+*.iws
+*.war
+*.jar
+.DS_Store
+.env
+target/
